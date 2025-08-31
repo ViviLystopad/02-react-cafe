@@ -1,4 +1,4 @@
-import type { Votes } from "../../Types/Votes";
+import type { Votes } from "../../types/Votes";
 import styles from './VoteStats.module.css'
 
 export interface VoteStatsProps {
